@@ -47,7 +47,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 <a href="avnhomepage.jsp">Home</a>&nbsp;&nbsp;
 <a href="avnlogin.jsp">Logout</a>
 </div>
-<h2 align="center">Repair Ticket Page</h2>
+<h2 align="center">Please Repair Ticket Page</h2>
 <input type="button" class="button" value="Create Repair Ticket">
 
 <div style="overflow-x:auto;">
